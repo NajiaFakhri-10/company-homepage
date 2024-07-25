@@ -1,0 +1,51 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d69595;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: #d65c5c;
+    padding: 10px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+section {
+    margin: 20px;
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+}
+
+.product {
+    text-align: center;
+}
+
+.team {
+    display: flex;
+    justify-content: space-around;
+}
+
+.member {
+    text-align: center;
+}
+
+footer {
+    background-color: #915757;
+    color: #ac9292;
+    text-align: center;
+    padding: 10px 0;
+}
